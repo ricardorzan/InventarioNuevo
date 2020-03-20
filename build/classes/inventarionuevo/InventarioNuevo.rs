@@ -1,0 +1,2 @@
+InventarioNuevo
+Ejemplo_crud
